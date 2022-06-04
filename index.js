@@ -6,8 +6,6 @@ const HEIGHT = 9;
 
 var gameData;
 
-var screenBuffer = [];
-
 const createGameData = () => {
   var data = {
     screenBuffer: [],
